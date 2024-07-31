@@ -1,0 +1,2 @@
+D:\work\Code\project\x64\Debug\project.exe.lastcodeanalysissucceeded
+D:\work\Code\project\project\x64\Debug\NativeCodeAnalysis.read.1.tlog
