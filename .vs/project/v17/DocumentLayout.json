@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\work\\Code\\project\\",
+  "WorkspaceRootPath": "D:\\work\\Code\\TimedClick\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B5C7FB69-968D-4B7E-91C8-032EEA4F101C}|project\\project.vcxproj|D:\\work\\Code\\project\\project\\project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{B5C7FB69-968D-4B7E-91C8-032EEA4F101C}|project\\project.vcxproj|D:\\work\\Code\\TimedClick\\project\\project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B5C7FB69-968D-4B7E-91C8-032EEA4F101C}|project\\project.vcxproj|solutionrelative:project\\project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "project.cpp",
-              "DocumentMoniker": "D:\\work\\Code\\project\\project\\project.cpp",
+              "DocumentMoniker": "D:\\work\\Code\\TimedClick\\project\\project.cpp",
               "RelativeDocumentMoniker": "project\\project.cpp",
-              "ToolTip": "D:\\work\\Code\\project\\project\\project.cpp",
+              "ToolTip": "D:\\work\\Code\\TimedClick\\project\\project.cpp",
               "RelativeToolTip": "project\\project.cpp",
-              "ViewState": "AQIAAPsAAAAAAAAAAADwv0gBAAAAAAAA",
+              "ViewState": "AQIAAO8AAAAAAAAAAADwv0gBAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-31T01:31:21.352Z",
               "EditorCaption": ""

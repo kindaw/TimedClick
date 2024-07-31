@@ -1,14 +1,12 @@
 ﻿  project.cpp
-D:\work\Code\project\project\project.cpp(93,25): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
-D:\work\Code\project\project\project.cpp(93,25): warning C4244:         with
-D:\work\Code\project\project\project.cpp(93,25): warning C4244:         [
-D:\work\Code\project\project\project.cpp(93,25): warning C4244:             _Rep=__int64
-D:\work\Code\project\project\project.cpp(93,25): warning C4244:         ]
-D:\work\Code\project\project\project.cpp(95,30): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
-D:\work\Code\project\project\project.cpp(95,30): warning C4244:         with
-D:\work\Code\project\project\project.cpp(95,30): warning C4244:         [
-D:\work\Code\project\project\project.cpp(95,30): warning C4244:             _Rep=__int64
-D:\work\Code\project\project\project.cpp(95,30): warning C4244:         ]
-  project.vcxproj -> D:\work\Code\project\x64\Debug\project.exe
-D:\work\Code\project\project\project.cpp(275): warning C6387: 'GlobalLock(hg)' could be '0':  this does not adhere to the specification for the function 'memcpy'. 
-D:\work\Code\project\project\project.cpp(292): warning C28251: Inconsistent annotation for 'wWinMain': this instance has no annotations. See c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\winbase.h(1050). 
+D:\work\Code\TimedClick\project\project.cpp(93,25): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+D:\work\Code\TimedClick\project\project.cpp(93,25): warning C4244:         with
+D:\work\Code\TimedClick\project\project.cpp(93,25): warning C4244:         [
+D:\work\Code\TimedClick\project\project.cpp(93,25): warning C4244:             _Rep=__int64
+D:\work\Code\TimedClick\project\project.cpp(93,25): warning C4244:         ]
+D:\work\Code\TimedClick\project\project.cpp(95,30): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+D:\work\Code\TimedClick\project\project.cpp(95,30): warning C4244:         with
+D:\work\Code\TimedClick\project\project.cpp(95,30): warning C4244:         [
+D:\work\Code\TimedClick\project\project.cpp(95,30): warning C4244:             _Rep=__int64
+D:\work\Code\TimedClick\project\project.cpp(95,30): warning C4244:         ]
+  project.vcxproj -> D:\work\Code\TimedClick\x64\Debug\project.exe
