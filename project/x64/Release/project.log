@@ -1,0 +1,16 @@
+﻿  project.cpp
+D:\work\Code\TimedClick\project\project.cpp(93,25): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+D:\work\Code\TimedClick\project\project.cpp(93,25): warning C4244:         with
+D:\work\Code\TimedClick\project\project.cpp(93,25): warning C4244:         [
+D:\work\Code\TimedClick\project\project.cpp(93,25): warning C4244:             _Rep=__int64
+D:\work\Code\TimedClick\project\project.cpp(93,25): warning C4244:         ]
+D:\work\Code\TimedClick\project\project.cpp(95,30): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+D:\work\Code\TimedClick\project\project.cpp(95,30): warning C4244:         with
+D:\work\Code\TimedClick\project\project.cpp(95,30): warning C4244:         [
+D:\work\Code\TimedClick\project\project.cpp(95,30): warning C4244:             _Rep=__int64
+D:\work\Code\TimedClick\project\project.cpp(95,30): warning C4244:         ]
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 315 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  project.vcxproj -> D:\work\Code\TimedClick\x64\Release\project.exe
